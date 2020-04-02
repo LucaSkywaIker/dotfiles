@@ -1,0 +1,115 @@
+{
+   "checksum": "c4c6f814350d4bccb9bdb8b97e9b9a51",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13230212506076159",
+            "guid": "4B20D46F-A3BE-4546-9685-F94F50DB4581",
+            "id": "9",
+            "meta_info": {
+               "last_visited": "13188256987862362",
+               "last_visited_desktop": "13199244900179627"
+            },
+            "name": "",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13099416416043136",
+            "guid": "AA5EFED6-C4EC-4AE1-A9F3-7C37246A90E5",
+            "id": "10",
+            "meta_info": {
+               "last_visited": "13179748823887206",
+               "last_visited_desktop": "13199240806584606"
+            },
+            "name": "",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/0/"
+         }, {
+            "date_added": "13154887553305305",
+            "guid": "ec452b1d-b6c4-4887-9240-56c7eeb49b53",
+            "id": "11",
+            "meta_info": {
+               "last_visited": "13184246183281948",
+               "last_visited_desktop": "13199179260896938"
+            },
+            "name": "",
+            "type": "url",
+            "url": "https://drive.google.com/drive/u/0/my-drive"
+         }, {
+            "date_added": "13228070474367241",
+            "guid": "2af6ed4a-64cf-40f3-82e1-797321a63813",
+            "id": "12",
+            "name": "",
+            "type": "url",
+            "url": "https://www.um.edu.mt/vle/my/"
+         }, {
+            "date_added": "13220748235125595",
+            "guid": "a506e71c-43d1-4a3b-9105-8e169af7ad5d",
+            "id": "13",
+            "name": "",
+            "type": "url",
+            "url": "http://thepiratebay.org/"
+         } ],
+         "date_added": "13230169927295861",
+         "date_modified": "13230294064705717",
+         "guid": "00000000-0000-4000-A000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13230169927295866",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13186013111068880",
+            "guid": "4b086f1c-9839-49c6-974f-3d7ede4c8f21",
+            "id": "14",
+            "meta_info": {
+               "last_visited": "13186013111071828"
+            },
+            "name": "San Ġwann, Malta Weather Forecast and Conditions - The Weather Channel | Weather.com",
+            "type": "url",
+            "url": "https://weather.com/en-GB/weather/today/l/78ab8100329d3e7e1eafb33e7f58708cfad030130cf72002c5ddb619a9cdfe00"
+         }, {
+            "date_added": "13189255345618094",
+            "guid": "564761b4-6a7f-414a-b472-0c7cbde936bd",
+            "id": "15",
+            "meta_info": {
+               "last_visited": "13189255345618999"
+            },
+            "name": "SYSTEM THREAD EXCEPTION HOT HANDLED BEdaisy.dll - Microsoft Community",
+            "type": "url",
+            "url": "https://answers.microsoft.com/en-us/insider/forum/insider_wintp-insider_devices-insiderplat_pc/system-thread-exception-hot-handled-bedaisydll/e09f4173-fa49-439f-ad42-7acb35156003?messageId=0bcb2e1b-5ed4-4c02-9b7c-12f377a252b2&page=1"
+         }, {
+            "date_added": "13206062588756243",
+            "guid": "3f1d0a94-409d-44f2-bd30-d628dd1d4a6c",
+            "id": "16",
+            "name": "Online Shop 1 KIT Maxkey Double Shot 2600 Colour Matching Key Cap SA Height Ball Cap Customization Mechanical Keyboard Cap | Aliexpress Mobile",
+            "type": "url",
+            "url": "https://m.aliexpress.com/item/33011272396.html?pid=808_0000_0105&spm=a2g0n.search-amp.list.33011272396&aff_trace_key=5bc336c9f4ef415297c3f7abba55e040-1561466857101-01508-ba9A6PMM&aff_platform=msite&m_page_id=9142amp-fmQxSRH2-w4xVkh6wfCpSw1561588861508"
+         }, {
+            "date_added": "13206575423574861",
+            "guid": "70810df4-9033-4165-890e-0531ce1b2b21",
+            "id": "17",
+            "name": "Buy & Sell Online: PC Games, Software, Gift Cards and More at G2A.COM",
+            "type": "url",
+            "url": "https://www.g2a.com/egoods/index/receive/id/69048843/hash/5cfa256cb382c93fb1b06100d1bd013d/"
+         } ],
+         "date_added": "13230169927295868",
+         "date_modified": "13206575423574861",
+         "guid": "00000000-0000-4000-A000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CscBCqYBCIiBAhKfARKMAQgCEk4KBgoCYm0QARAzGhIJgBBxsEuiBQAhgBBxsEuiBQAiFAkI2V6/S6IFABABGbsl6luJLmvHMhgKFggCEVCNC8BLogUAGAAhAAAAAAAAAAASOAoGCgJiZBAAEDMaEgmAEHGwS6IFACGAEHGwS6IFADIYChYIAhFQjQvAS6IFABgAIQAAAAAAAAAAIABI76q30pMucND1j9KTLhIAIAEqGFNpUC9lVDhhOU9FRVBaajNITGJPM0E9PRKKAggNEoUCEqYBWjpBRHF0QVp3MFY0Nk9Kd2s4amsxUnl2QTZyRnFvNG5COWJWTHRLb1prbCtmd2VCTzYzcWJYWUFFVFZrWnNHeWVPOTNvL2hQZCtyeFBPZm1VWEZVcnEvWWF3MU1QZ21ZZnNnc3VIbWhyTWJtRkNoSmxZUEpjeFErNDgwblI5cExkVzVZNmRaNUl5VHhWcXQyeGo3VUdlMHNCc2o1KzRLakdzUkE9PRgAIAIoAjCFt9XMucnoAjj30qiK8C1Ah+6P0pMuShwyTVMvc0NONy9ZT3pmMlo3aFpQUmtsZEFXbVU9Wh8iHahGdUVIeTRLdFhmVEZLODIvZ2Q1aU1RQnpQczA9EokCCA8ShAISpgFaOkFEcXRBWncwVjQ2T0p3azhqazFSeXZBNnJGcW9XdWpBK0MwOUF5ZEhRTG5xNkFTUGQrT25iY0tzZWZQYkhORnVCaHQ2bmE3TFVFRjRWQ0RXb0NYdUFCV3JFaTBISldIN0hLUGdFNzg4eUV3WklQTXdUd0JMWEJWOGlOSE9mUGI5UEtSNjg1OGZSRE95dUNKbnBrR0Y3YVRVbnhUUWNQUkM4Zz09GAAgACgAMInm5LqIn98CONObq+H6LEDTm6vh+ixKHEpDM2tiMWRMT0dMY1h1a2dXSjh2R000NWFLYz1aHiIccU9ZaXkyK0VUcmlQOUl5YzlsRk56eDhOTWtrPRKKAggQEoUCEqYBWjpBRHF0QVp3MFY0Nk9Kd2s4amsxUnl2QTZyRnFvV3VqQStDMDlBeWRIUUxucTZBU1BkNEZSSmJOR29LSXNTdENTUmJ3dit0bFVKVzI1MGwxK201T1k5dW9TUUNKY0RCM2FoWExXRnkzWnVuT0hBRUZxczVCN1p4b2xQQklET2ZPNVc0MTNFb3h6QmZVellBZnorZFdpYmVKeEZUT05TaDBuZmc9PRgAIAAoADD026zCoYzjAji4g+vxuS1AuIPr8bktShwxTEU0Q3p1NW9NSzluTWhoWllBVUJYaVp1aE09Wh8iHbhqWGE0Smt1bHJJVk05UGRuc0xvSDdVRjYvS0E9EooCCBEShQISpgFaOkFEcXRBWncwVjQ2T0p3azhqazFSeXZBNnJGcW9XdWpBK0MwOUF5ZEhRTG5xNkFTUGR3NDZEc0VpVGVJQkhyb2JBa3pycFArWHRIMklVaUdFY3ltdVN5YXVFQm5NaHdYMWxaREVmSkk0MDFmanJUZGp6ZThQRU1IZ0VjdXREc2QxM3JyeDZ5Ymh3cmRvVysxY3ppeTdSMDFPaFdreHVTQ0NLdz09GAAgACgAMNamxeSSl+MCON7wmKS7LUDe8Jikuy1KHGhyL2FtOGxaK2ppWXZpVE5zQVl2UG5mL1ZHWT1aHyId3FhKSHVFbkdhZFJzM1lkdGdCT29ZUG1LcHc2OD0SiQIIDhKEAhKmAVo6QURxdEFadzBWNDZPSndrOGprMVJ5dkE2ckZxb1d1akErQzA5QXlkSFFMbnE2QVNQZHl6cEpmbGdhcWNPZWY4YUl4N0gwUWd6bE1QRWFEUFFnc1hoOFZ1UTNDVWpQeWtrK01aSHRUeHVFRVN3OGtNTDJzQnVBMFhlMEZ1RWp4dWxabUtXQzNLWU9hM052V2FuNTNMVkRWYXR5bDhBTEEwcE1BPT0YACAAKAAwifuGmdrA3gI4nvao1+4sQJ72qNfuLEocb2hMMmtRRVJNV1k3OGJ2d0YvcXRTOENwc1hFPVoeIhxabWtGZHo3Y1FoQ2ROb0tkU1d1MmY1dDU4ZTg9EokCCAwShAISpgFaOkFEcXRBWncwVjQ2T0p3azhqazFSeXZBNnJGcW9jMW1LajlHUzhNczhTQWlWdHBLbDFxMFBUanhNUitYRXBuRk1neHBWeFlHVmdPV2pqNWQremxQbk1YZlVRZVdtNkdOZFp3OVlQQXZjbjlSaENpUVBRSWp5bHgvOVROdU8zWWFHcE1jcitQeFo2bUtwRzA5U09xc1JlTmtURzN5N0M2K3RIdz09GAAgAigCMIW31cy5yegCOP/U6q2LLkCH7o/Sky5KHGlqclBMb2hXRlhmNE5sT05MR1ZHMUs1U0h6cz1aHiIceWtZTS9sK1JtYjFzd0p0emR0T2Z6R0t1M0Q0PRKJAggKEoQCEqYBWjpBRHF0QVp3MFY0Nk9Kd2s4amsxUnl2QTZyRnFva1VobXgwT21zYjFQc2VyaXRlWE5WQVZmRE5Na3pYd2ZBOTJBV0QvZnZDdUw0ZE1Uam16WXVzdHI2a2piSjNOT0VabmJ1Z3NqMlZ3VGZWSU1pU0pZZjZteVZYQzJNaFlyK0dWUzc1TmVVbEZ0VU9KV0w5aVZkK3J4RGlNNElYUXdXVkNIN1E9PRgAIAIoAjCFt9XMucnoAjirjuaKrCpAhu6P0pMuShxZbUlQLzdoNTNHWmN4QUliWFlTZTEzUmZHQTQ9Wh4iHDJqN0lyZzdRTHQ3MVc3L2JZZUxhN0s4MXJtRT0SigIICRKFAhKmAVo6QURxdEFadzBWNDZPSndrOGprMVJ5dkE2ckZxb2tVaG14ME9tc2IxUHNlcml0ZVhOVklSdEp6cGt0OGFBYnd6NE5zcExWc3ZTcUplY3Vjc203d2dsZTRkOC9qR1JJY3FoYlkzZUt1NVNlS1lTNmhwYjlqeHJLU0phT1NXZjBGODFlNHpaMW9FU2ZTYTNHS1llVUlTUDlCOFRGNWxjbi9KVEV3PT0YACABKAEwhbfVzLnJ6AI4v8DmiqwqQOjtj9KTLkocVmR0VnhZbXEzQnhOa0hReGRRSWkzR0NmUmdZPVofIh0jaGFzNzNRczNQRE1tN29JbTMxdE5jdWZnZXBzPRKJAggLEoQCEqYBWjpBRHF0QVp3MFY0Nk9Kd2s4amsxUnl2QTZyRnFvbi9VS0wyK0Urb3BtRkY4SThaU2k0dEtETnVzYUJPQ1VRMkMzZXFiQktGTFZhQXF1a3lYSXdZeGlkR3l6Y2xaVytHTkZVMWRrL3BReXJjWUZPMGkvR0d5SDlGNk1WYUNzMkV5RWN3VGh2SC9tUWdwSW9OQld3Yms0dEVWMHNtdXRIWU5xWUE9PRgAIAIoAjCFt9XMucnoAjiZ0r/d+itAhu6P0pMuShxGVmI4WFUwUFZNbGd6UjJWQmpsc1luREJWaVk9Wh4iHEhtaHpDUnUvd0pyYkd4eFlNKzR3bnlMamVFYz0SxgEIAxLBARJmWjpBRHF0QVp3NWFFbWY5KzU0S3dRS0p2T0N4L2k1Z2d5dVNkRHcyVVF1aWw4d2tLTlpQUnJqeDhLcS9USGtrR2RBcHAvMjJhQXdGUkhJcVM2TVc1SUZTOFUyR2xGWlVkeGtMUT09GAAgACgAMP/Lm8u5yegCOABAAEocNzlsK0xSRVVwaWFFdkREK0c0M2NwWFN0d0JjPVomIiSAAAAAAAAAAGnLKqNXDuGPeBAnoD4SRe/vKik8fzHiZ8hueH8SrgEIARKpARJOWjpBRHF0QVp4MThGc05qNmxSVE5WdHl6ODZ1K1NiTmlNVnVwTk80UlNpQjNlWUl6R1FPeUREaVBGZEEzeXQzKzRwd0ZoZGV6S2hObEloGAAgACgAMP/Lm8u5yegCOABAAEocVStHR0l0WkVEcFpzSVNsT1VhSVR1SUxkTW5JPVomIiSAAAAAAAAAAPGpo6HFw+ytE71t0AktaoKhZNVD73b57dfO0H8SxgEIAhLBARJmWjpBRHF0QVp6azJZSDk2VHI2OWdaVkUrSkpkemJPamtBcXE3aTkvM0l3cTMyYkpYTyt6MzB5bndpZVJoQ2ZCNG5XOFdCN0hqbzlJc0RVWVJHdmlUQ010bE1yZGpDdCtjMC8yUT09GAAgACgAMP/Lm8u5yegCOABAAEocNXVzeS9jcGZwaTFFdG9CSERnWElzMHFiNHJBPVomIiSAAAAAAAAAAAGYzlIwWOxv5Ielne0E3v1JmXTe6wavi57BGX8=",
+   "version": 1
+}

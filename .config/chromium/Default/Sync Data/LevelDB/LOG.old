@@ -1,0 +1,6 @@
+2020/04/02-17:41:15.104 402 Reusing MANIFEST /home/lucaskywalker/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
+2020/04/02-17:41:15.104 402 Recovering log #4
+2020/04/02-17:41:15.113 402 Reusing old log /home/lucaskywalker/.config/chromium/Default/Sync Data/LevelDB/000004.log 
+2020/04/02-17:41:21.541 4d1 Level-0 table #8: started
+2020/04/02-17:41:21.552 4d1 Level-0 table #8: 103140 bytes OK
+2020/04/02-17:41:21.556 4d1 Delete type=0 #4
